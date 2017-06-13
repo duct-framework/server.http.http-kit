@@ -1,5 +1,7 @@
 # Duct server.http.http-kit
 
+[![Build Status](https://travis-ci.org/duct-framework/server.http.http-kit.svg?branch=master)](https://travis-ci.org/duct-framework/server.http.http-kit)
+
 Integrant multimethods for running a [HTTP-Kit][] HTTP server for the
 [Duct][] framework.
 

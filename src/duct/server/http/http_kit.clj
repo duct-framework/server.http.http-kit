@@ -3,8 +3,6 @@
             [duct.logger :as logger]
             [integrant.core :as ig]))
 
-(derive :duct.server.http/http-kit :duct.server/http)
-
 (defmethod ig/init-key :duct.server.http/http-kit [_ {:keys [handler logger] :as opts}]
   (let [handler (atom (delay (:handler opts)))
         logger  (atom logger)

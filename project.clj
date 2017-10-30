@@ -9,4 +9,4 @@
                  [duct/logger "0.2.1"]
                  [integrant "0.6.1"]]
   :profiles
-  {:dev {:dependencies [[clj-http "2.1.0"]]}})
+  {:dev {:dependencies [[clj-http "3.7.0"]]}})

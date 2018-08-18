@@ -12,7 +12,7 @@ Integrant multimethods for running a [HTTP-Kit][] HTTP server for the
 
 To install, add the following to your project `:dependencies`:
 
-    [duct/server.http.http-kit "0.1.2"]
+    [duct/server.http.http-kit "0.1.3"]
 
 ## Usage
 

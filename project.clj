@@ -1,4 +1,4 @@
-(defproject duct/server.http.http-kit "0.1.3"
+(defproject duct/server.http.http-kit "0.1.4"
   :description "Integrant methods for running a HTTP-Kit web server"
   :url "https://github.com/duct-framework/server.http.http-kit"
   :license {:name "Eclipse Public License"
